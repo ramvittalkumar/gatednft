@@ -2,7 +2,7 @@
 
 The project show case how to restrict the access of your web contents to the users with your NFTs.
 
-This project demonstrated how you could validate if a wallet own a specific NFT on the client-side and the server-side using 3rdweb SDK.
+This project demonstrates how you could validate if a wallet own a specific NFT on the client-side and the server-side using 3rdweb SDK.
 
 
 **NFT Ownership Validation**
@@ -41,14 +41,14 @@ If the signed wallet have the required NFT, then it would render the page with w
 Generate a one-time use code for the website for wallet authentication for lounge access.
 
 ### Tools
-UI - React, HTML/CSS
-IPFS: We store all NFT generated images on IPFS.
-Smart Contract - Solidity ERC-155
-Backend - next.js, 3rdWeb SDK
-Art Design - Adobe PhotoShop, Adobe Illustrator
-Art Engine - Modified Hashlips engine
-Testnet - Mumbai Polygon , Opensea
-Tools - Truffle, Remix, Metamask, Discord Bot (Collab.land)
+- UI - React, HTML/CSS
+- IPFS: We store all NFT generated images on IPFS.
+- Smart Contract - Solidity ERC-1155
+- Backend - next.js, 3rdWeb SDK
+- Art Design - Adobe PhotoShop, Adobe Illustrator
+- Art Engine - Modified Hashlips engine
+- Testnet - Mumbai Polygon , Opensea
+- Tools - Truffle, Remix, Metamask, Discord Bot (Collab.land)
 
 ### Example Project Dependencies
 - **Next.js**: React Framework.
